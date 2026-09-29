@@ -1,0 +1,7 @@
+{
+  "name": "Anuchaaya - Parent Portal",
+  "description": "Executive guardian portal for Aetheria Academy scholars with academic ledger, attendance records, faculty recognition, and institutional governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
