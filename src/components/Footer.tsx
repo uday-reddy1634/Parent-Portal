@@ -25,7 +25,7 @@ export const Footer: React.FC<FooterProps> = ({
           <span className={`font-semibold font-title-sm text-sm ${
             theme === 'dark' ? 'text-[#f2ca50]' : 'text-amber-800'
           }`}>
-            Aetheria Academy
+            Pathshala
           </span>
           <span className={theme === 'dark' ? 'text-[#4d4635]' : 'text-slate-300'}>•</span>
           <span className={theme === 'dark' ? 'text-[#d0c5af]' : 'text-slate-500'}>
@@ -59,7 +59,7 @@ export const Footer: React.FC<FooterProps> = ({
           </button>
         </div>
         <p className={`font-label-sm ${theme === 'dark' ? 'text-[#4d4635]' : 'text-slate-400'}`}>
-          © 2024 Aetheria Academy. Encrypted Guardian Access.
+          © 2025 Pathshala. Encrypted Guardian Access.
         </p>
       </div>
     </footer>
