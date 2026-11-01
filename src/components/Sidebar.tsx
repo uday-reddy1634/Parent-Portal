@@ -87,7 +87,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             <div className="relative shrink-0">
               <img
                 src={ASSETS.logo}
-                alt="Aetheria Crest"
+                alt="Pathshala Logo"
                 className="w-9 h-9 object-contain transition-transform group-hover:scale-105"
                 referrerPolicy="no-referrer"
               />
@@ -99,7 +99,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 <span className={`font-bold font-title-sm text-sm tracking-tight ${
                   isDark ? 'text-[#f2ca50]' : 'text-amber-800'
                 }`}>
-                  Aetheria Academy
+                  Pathshala
                 </span>
                 <span className={`text-[11px] font-medium ${
                   isDark ? 'text-[#99907c]' : 'text-slate-500'
@@ -170,7 +170,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     </span>
                   </div>
                   <p className={`text-[11px] truncate ${isDark ? 'text-[#99907c]' : 'text-slate-500'}`}>
-                    Honors Scholar • #ATH-8842
+                    Honors Scholar • #PTH-8842
                   </p>
                   <div className="flex items-center gap-2 mt-1">
                     <span className="text-[10px] font-bold text-emerald-600 dark:text-emerald-400">
