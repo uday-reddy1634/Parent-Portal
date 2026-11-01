@@ -69,7 +69,7 @@ export const TranscriptModal: React.FC<TranscriptModalProps> = ({
               <span className={`material-symbols-outlined text-[20px] ${isDark ? 'text-[#f2ca50]' : 'text-amber-700'}`}>
                 verified
               </span>
-              <span className="font-semibold text-xs font-title-sm">Aetheria Academy Registrar Seal</span>
+              <span className="font-semibold text-xs font-title-sm">Pathshala Registrar Seal</span>
             </div>
             <span className={`font-mono text-[10px] font-semibold px-2 py-0.5 rounded ${
               isDark ? 'bg-[#2a2a2c] text-[#f2ca50]' : 'bg-amber-100 text-amber-900'
