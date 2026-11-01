@@ -37,7 +37,7 @@ export const HandbookModal: React.FC<HandbookModalProps> = ({
             </div>
             <div>
               <h3 className="font-bold text-base sm:text-lg font-title-sm">
-                {type === 'handbook' ? 'Aetheria Parent Handbook (2024–2025)' : 'Aetheria Academy Privacy Charter'}
+                {type === 'handbook' ? 'Pathshala Parent Handbook (2024–2025)' : 'Pathshala Privacy Charter'}
               </h3>
               <p className={`text-xs ${isDark ? 'text-[#99907c]' : 'text-slate-500'}`}>
                 Institutional Governance & Guardian Protocol
@@ -64,7 +64,7 @@ export const HandbookModal: React.FC<HandbookModalProps> = ({
                   Academic Integrity & Scholar Honor Code
                 </span>
                 <p className={isDark ? 'text-[#d0c5af]' : 'text-slate-600'}>
-                  Scholars of Aetheria Academy commit to the highest tier of scholarly discipline, intellectual honesty, and mutual respect.
+                  Scholars of Pathshala commit to the highest tier of scholarly discipline, intellectual honesty, and mutual respect.
                 </p>
               </div>
 
@@ -105,7 +105,7 @@ export const HandbookModal: React.FC<HandbookModalProps> = ({
               <div className="space-y-2">
                 <h4 className="font-bold font-title-sm">1. Zero Third-Party Telemetry</h4>
                 <p className={isDark ? 'text-[#d0c5af]' : 'text-slate-600'}>
-                  Aetheria Academy does not sell, license, or expose guardian identity or academic records to commercial analytics or third-party networks.
+                  Pathshala does not sell, license, or expose guardian identity or academic records to commercial analytics or third-party networks.
                 </p>
               </div>
 
